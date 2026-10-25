@@ -1,0 +1,6 @@
+{
+  "name": "studypal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StudyPal study site with a Claude-powered tutor"
+}
